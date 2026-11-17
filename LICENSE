@@ -1,0 +1,79 @@
+END-USER LICENSE AGREEMENT (EULA)
+專有免費軟體授權合約
+================================================================================
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE.
+重要須知：在下載、安裝、複製或使用本軟體前，請詳細閱讀本合約之所有條款。
+
+Copyright (c) 2026 得翼科技 DEI Tech (DEI 3C). All rights reserved.
+Official Website: https://blog.dei3c.com
+
+Language Notice / 語言效力聲明:
+This Agreement is drafted in English and Traditional Chinese. In the event of any conflict, ambiguity, or discrepancy between the two versions, the English version shall govern and control in all respects.
+本合約以英文與繁體中文並行訂立。若中文版本與英文版本之間存在任何牴觸、歧異或疑義，悉以英文版本為準。
+
+================================================================================
+PART 1: ENGLISH TERMS
+================================================================================
+
+1. GRANT OF LICENSE
+DEI Tech ("Licensor") hereby grants you a personal, non-exclusive, non-transferable, royalty-free license to download, install, and execute the official binary executable version of the software ("Software") on any computers, workstations, or Windows PE (Preinstallation Environment) maintenance media under your possession or control.
+You are permitted to use this Software to service, diagnose, troubleshoot, and repair computer systems for commercial clients or end users without paying additional licensing fees, provided that no separate fee is charged for the Software itself.
+
+2. DISTRIBUTION
+You may freely redistribute exact, unmodified copies of the original binary package of the Software, provided that:
+(a) No fee, payment, or consideration is charged for the Software (whether standalone or bundled with paid hardware, paid software, or commercial repair services);
+(b) All copyright notices, trademarks, and branding belonging to Licensor remain intact and unmodified;
+(c) This EULA is distributed along with the Software.
+
+3. RESTRICTIONS
+You shall not, and shall not permit any third party to:
+(a) Sell, rent, lease, sublicense, loan, or otherwise monetize the Software itself (this does not restrict charging fees for your own repair, diagnostic, or consulting services performed using the Software, as permitted in Section 1);
+(b) Decompile, reverse engineer, disassemble, decrypt, or otherwise attempt to derive or reconstruct the source code of the Software;
+(c) Modify, alter, patch, translate, or create derivative works of the Software;
+(d) Remove, obscure, or alter any proprietary notices, logos, or trademarks of Licensor;
+(e) Bundle, inject, or repackage the Software with any adware, spyware, trojans, backdoors, or other malicious payloads.
+Sections 3(b) and 3(c) apply to the Licensor's proprietary code only. They do not limit any rights you hold under the licenses of the third-party components included in the Software (see THIRD_PARTY_NOTICES.md), nor any right that cannot be excluded or limited by applicable law.
+
+4. PRIVACY AND SECURITY
+Licensor has not intentionally included any malware, spyware, backdoor, or trojan horse in the official binary release of the Software, and the Software does not collect personal identifiable information (PII) or telemetry.
+Update check: by default, the Software periodically sends a single HTTPS request to the GitHub API (api.github.com) to check whether a newer release exists. The request carries no device identifier or personal data beyond what any network connection inherently reveals (such as your IP address, and the Software name and version in the User-Agent). You can turn this off in the Software's Settings. The Software never downloads or installs updates by itself; it only opens the official GitHub release page when you choose to.
+
+5. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+6. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR, ITS DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, REVENUE, OR PROFITS; SYSTEM OR HARDWARE INSTABILITY; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. USERS ASSUME ALL RISKS AND RESPONSIBILITIES FOR SYSTEM-LEVEL MODIFICATIONS.
+
+================================================================================
+PART 2: 繁體中文條款
+================================================================================
+
+第一條 授權範圍 (Grant of License)
+得翼科技（以下稱「授權人」）在此授予您一項非專屬、不可轉讓、免權利金之使用權利。您得於所持有或支配之任何實體電腦、工作站或 WinPE（Windows 預安裝環境）維護隨身碟上下載、安裝與執行本軟體之官方原版二進位執行檔。
+電腦維修工作室、企業資訊人員或獨立工程師得免費使用本軟體為終端客戶檢測、維護與修復電腦系統，惟不得針對本軟體本身收取任何授權費用。
+
+第二條 散布條款 (Distribution)
+您得自由轉載或散布原版未經修改之本軟體安裝包或執行檔，惟須完全符合下列條件：
+(一) 不得以任何形式對本軟體收取費用或對價（包括但不限於單獨銷售、與收費硬體、收費裝機包或商業維護方案捆綁販售）；
+(二) 完整保留本授權合約、得翼科技之著作權聲明與品牌商標；
+(三) 確保散布之檔案為官方未經篡改之原版檔案。
+
+第三條 使用限制 (Restrictions)
+使用者不得從事，亦不得允許或協助任何第三方從事下列行為：
+(一) 販售、出租、出借、轉授權，或以其他方式將本軟體本身變現（本款不限制您依第一條使用本軟體所提供之收費維修、檢測或顧問服務）；
+(二) 對本軟體進行反向工程、反編譯、反彙編或試圖獲取原始碼；
+(三) 修改、破解、修補、注入外掛或重新打包本軟體；
+(四) 刪除、遮蔽或變更授權人於本軟體標註之商標、Logo 或版權標示；
+(五) 植入任何廣告外掛、木馬程式、間諜代碼或惡意組件後重新分發。
+前項第（二）款及第（三）款僅適用於授權人之專有程式碼，不限制您依本軟體所內含第三方元件之授權（詳見 THIRD_PARTY_NOTICES.md）所享有之權利，亦不限制依適用法律不得排除或限制之權利。
+
+第四條 隱私與安全承諾 (Privacy & Security)
+授權人未在官方發布之原版軟體中刻意植入任何惡意程式（木馬、病毒、後門或間諜插件），且本軟體不蒐集個人可識別資料或遙測資料。
+更新檢查：本軟體預設會定期向 GitHub API（api.github.com）發出一次 HTTPS 請求，以確認是否有新版本。該請求不含裝置識別碼或個人資料，僅包含任何網路連線本來就會揭露的資訊（例如您的 IP 位址，以及 User-Agent 中的軟體名稱與版本）。您可在軟體「設定」中關閉此功能。本軟體不會自行下載或安裝更新，僅在您選擇時開啟官方 GitHub 發行頁面。
+
+第五條 免責聲明 (Disclaimer of Warranties)
+本軟體係以「現狀 (AS IS)」及「現有 (AS AVAILABLE)」基礎免費提供，授權人不負任何形式之明示或默示擔保責任，包括但不限於對適銷性、特定用途之適用性及未侵害他人權利之擔保。授權人不保證本軟體能完全符合使用者之特定需求，亦不保證執行過程完全不會中斷或毫無錯誤。
+
+第六條 責任限制 (Limitation of Liability)
+在相關法律所允許之最大範圍內，授權人對於因使用或無法使用本軟體所產生之任何直接、間接、附隨、特別、懲罰性或衍生性損害（包括但不限於系統或硬體不穩定、開機異常、業務中斷、資料毀損或遺失、預期利益損失等），無論係基於侵權行為、契約違反或其他法律理論，即便授權人曾被告知該等損害發生之可能性，授權人均概不承擔任何賠償責任。使用者須自行評估並承擔使用本軟體進行系統層級修改之所有風險與責任。
